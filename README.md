@@ -2,9 +2,6 @@
 
 This repository contains a simple Java program `Hello.java` used to test Jenkins CI/CD pipeline integration.
 
-## 📄 File Structure
-
-
 ## 🚀 Purpose
 
 This repository is a basic example to test:
